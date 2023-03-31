@@ -1,6 +1,6 @@
 Name:           python-enum-compat
 Version:        0.0.3
-Release:        1
+Release:        2
 Summary:        Enum/Enum34 compatibility package
 License:        MIT
 Group:          Development/Languages/Python
